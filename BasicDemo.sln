@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiledLib", "..\..\TiledLib\TiledLib\TiledLib.csproj", "{EC3F6988-459C-4783-89E9-F34C0CC731C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDemoContentPipeline", "BasicDemoContentPipeline\BasicDemoContentPipeline.csproj", "{FE73D860-B545-4E31-B33D-522CDDECC6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDemo", "BasicDemo\BasicDemo.csproj", "{C09B0C0E-5846-4C62-8C0C-D0AC52B9F45F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDemoContent", "BasicDemoContent\BasicDemoContent.contentproj", "{8D618B2B-7D2E-477A-9086-5710714226A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3F6988-459C-4783-89E9-F34C0CC731C7}.Debug|x86.ActiveCfg = Debug|x86
+		{EC3F6988-459C-4783-89E9-F34C0CC731C7}.Debug|x86.Build.0 = Debug|x86
+		{EC3F6988-459C-4783-89E9-F34C0CC731C7}.Release|x86.ActiveCfg = Release|x86
+		{EC3F6988-459C-4783-89E9-F34C0CC731C7}.Release|x86.Build.0 = Release|x86
+		{FE73D860-B545-4E31-B33D-522CDDECC6F9}.Debug|x86.ActiveCfg = Debug|x86
+		{FE73D860-B545-4E31-B33D-522CDDECC6F9}.Debug|x86.Build.0 = Debug|x86
+		{FE73D860-B545-4E31-B33D-522CDDECC6F9}.Release|x86.ActiveCfg = Release|x86
+		{FE73D860-B545-4E31-B33D-522CDDECC6F9}.Release|x86.Build.0 = Release|x86
+		{C09B0C0E-5846-4C62-8C0C-D0AC52B9F45F}.Debug|x86.ActiveCfg = Debug|x86
+		{C09B0C0E-5846-4C62-8C0C-D0AC52B9F45F}.Debug|x86.Build.0 = Debug|x86
+		{C09B0C0E-5846-4C62-8C0C-D0AC52B9F45F}.Release|x86.ActiveCfg = Release|x86
+		{C09B0C0E-5846-4C62-8C0C-D0AC52B9F45F}.Release|x86.Build.0 = Release|x86
+		{8D618B2B-7D2E-477A-9086-5710714226A3}.Debug|x86.ActiveCfg = Debug|x86
+		{8D618B2B-7D2E-477A-9086-5710714226A3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
